@@ -24,7 +24,7 @@ Chromeのみ開けます (chrome://extensions/)
 
 ##今後の予定
 
-設定部分で:heart:か:start:にするか選べるようにしていつか本家にプルリクを出したいと思います。
+設定部分で:heart:か:star:にするか選べるようにしていつか本家にプルリクを出したいと思います。
 
 ## Related project
 
