@@ -1,13 +1,23 @@
-KuroTwi
+HotTwi
 =============
+##概要
+サブタイトル通り、アップデートで改悪されてしまった「KuroTwi」の:hart:を:star:に簡単に戻せました。  
+それを「HotTwi」としてリリースしましたので"自己責任"でご利用下さい。
+やっていることは:hart:という記述やCSSを:star:に書き換えただけです。
 
-This application is a twitter client. It works on Google Chrome.
+## 使い方
 
-Installation
-=============
-[Chrome Webstore](https://chrome.google.com/webstore/detail/kurotwi/kcijnjkpackkklmkicldmkbhpdeilbgf)
+★将来的にChrome Extensionで公開予定★
 
-Usage
-=============
+### Chrome Extensionとしての導入方法
 
-Click the KuroTwi icon from the application list of Google Chrome.
+git cloneまたは右下からダウンロードしましょう
+
+cloneまたはzipを解凍したらChromeの設定から拡張機能を開きます。
+
+Chromeのみ開けます (chrome://extensions/) 
+
+デベロッパーモードになっていなければ変更しましょう。  
+
+「パッケージ化されていない拡張機能を読み込む」から解凍したフォルダを読み込んでください。  
+ファイルを更新したらリロードしてください。  
