@@ -21,3 +21,15 @@ Chromeのみ開けます (chrome://extensions/)
 
 「パッケージ化されていない拡張機能を読み込む」から解凍したフォルダを読み込んでください。  
 ファイルを更新したらリロードしてください。  
+
+##今後の予定
+
+設定部分で:heart:か:start:にするか選べるようにしていつか本家にプルリクを出したいと思います。
+
+## Related project
+
+本家: [oken1/kurotwi](https://github.com/oken1/kurotwi)  
+
+## LICENSE
+
+MIT
